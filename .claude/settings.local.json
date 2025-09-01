@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm:*)",
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(wine_envScriptsactivate.bat)",
+      "Bash(.\\wine_env\\Scripts\\activate)",
+      "Bash(jupyter notebook)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
